@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208904891041",
+    "project_id": "multi-restau",
+    "storage_bucket": "multi-restau.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208904891041:android:5c6086b6f0e8c200415ee0",
+        "android_client_info": {
+          "package_name": "com.merchant.multirestau"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyq2L7ARrUKxNWOvTUI5BuWZygUkJ93Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208904891041:android:6986cb15e8b8ea32415ee0",
+        "android_client_info": {
+          "package_name": "com.multirestaurant.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyq2L7ARrUKxNWOvTUI5BuWZygUkJ93Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
