@@ -1,5 +1,5 @@
 {
-  "appId": "com.multirestaurant.mobile",
+  "appId": "com.nadeats.client",
   "appName": "Karenderia",
   "bundledWebRuntime": false,
   "npmClient": "npm",
@@ -9,17 +9,10 @@
   },
   "plugins": {
     "PushNotifications": {
-      "presentationOptions": [
-        "badge",
-        "sound",
-        "alert"
-      ]
+      "presentationOptions": ["badge", "sound", "alert"]
     },
     "GoogleAuth": {
-      "scopes": [
-        "profile",
-        "email"
-      ],
+      "scopes": ["profile", "email"],
       "serverClientId": "46158489047-vptkm75h1okppmo5k0btqor6n8hki0dp.apps.googleusercontent.com",
       "forceCodeForRefreshToken": true
     },

@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "208904891041",
-    "project_id": "multi-restau",
-    "storage_bucket": "multi-restau.appspot.com"
+    "project_number": "357658559031",
+    "project_id": "nadeats-59f0a",
+    "storage_bucket": "nadeats-59f0a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:208904891041:android:5c6086b6f0e8c200415ee0",
+        "mobilesdk_app_id": "1:357658559031:android:d477ea8f76d9cd7a5af5b2",
         "android_client_info": {
-          "package_name": "com.merchant.multirestau"
+          "package_name": "com.nadeats.client"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAyq2L7ARrUKxNWOvTUI5BuWZygUkJ93Lk"
+          "current_key": "AIzaSyDXMxLSVeDTz7aA5J3jdTkRpE4OZ-FRE_o"
         }
       ],
       "services": {
@@ -26,15 +26,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:208904891041:android:6986cb15e8b8ea32415ee0",
+        "mobilesdk_app_id": "1:357658559031:android:91fb4c710d8f40b05af5b2",
         "android_client_info": {
-          "package_name": "com.multirestaurant.mobile"
+          "package_name": "com.nadeats.driver"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAyq2L7ARrUKxNWOvTUI5BuWZygUkJ93Lk"
+          "current_key": "AIzaSyDXMxLSVeDTz7aA5J3jdTkRpE4OZ-FRE_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357658559031:android:deecdc664a7fcce95af5b2",
+        "android_client_info": {
+          "package_name": "com.nadeats.merchant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXMxLSVeDTz7aA5J3jdTkRpE4OZ-FRE_o"
         }
       ],
       "services": {

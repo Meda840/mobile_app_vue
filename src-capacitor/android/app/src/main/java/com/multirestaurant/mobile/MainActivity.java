@@ -1,4 +1,4 @@
-package com.multirestaurant.mobile;
+package com.nadeats.client;
 
 import com.getcapacitor.BridgeActivity;
 import android.os.Bundle;
